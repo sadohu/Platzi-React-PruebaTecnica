@@ -77,3 +77,5 @@ Las rutas de Checkout, Órdenes de compra y Visualización de productos NO deben
 7. Responsive design para pagina `my-account`
 8. Responsive design para pagina `my-orders`
 9. Responsive design para pagina `my-order`
+
+Readme by: https://github.com/LuisValladaresC/prueba-tecnica-ecommerce-profesional-con-reactjs/blob/prueba-tecnica/README.md
